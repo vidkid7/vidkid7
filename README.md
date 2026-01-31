@@ -13,7 +13,6 @@
 
 - 🌱 I’m currently learning **Asp.net, JavaScript, Cybersecurity**
 
-- 👯 I’m looking to collaborate on **Siliconsoft IT Consultant**
 
 - 🤝 I’m looking for help with **.Net MVC**
 
